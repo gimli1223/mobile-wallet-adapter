@@ -75,7 +75,7 @@ dependencies {
 }
 ```
 
-#### For wallets:
+#### For wallets:gimli
 
 ```
 dependencies {
